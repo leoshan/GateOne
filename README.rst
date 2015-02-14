@@ -1,5 +1,6 @@
 About Gate One
 ==============
+* yum install python-pip
 * pip install tornado kerberos
 * python setup.py install
 * gateone >/dev/null 2>&1 &
