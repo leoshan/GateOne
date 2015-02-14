@@ -1,5 +1,9 @@
 About Gate One
 ==============
+pip install tornado kerberos
+python setup.py install
+gateone >/dev/null 2>&1 &
+
 `Gate One <http://liftoffsoftware.com/Products/GateOne>`_ is an HTML5 web-based terminal emulator and SSH client.  Top features:
 
 * No browser plugins required!  Say goodbye to the security problems of Java, Flash, and ActiveX.
