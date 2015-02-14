@@ -7,6 +7,8 @@ About Gate One
     * /usr/bin/gateone >/dev/null 2>&1 &
 * gateone >/dev/null 2>&1 &
 
+* Copy & Paste shift-Insert works too!
+
 `Gate One <http://liftoffsoftware.com/Products/GateOne>`_ is an HTML5 web-based terminal emulator and SSH client.  Top features:
 
 * No browser plugins required!  Say goodbye to the security problems of Java, Flash, and ActiveX.
